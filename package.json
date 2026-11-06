@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "node test.js"
   },
-  "author": "SaiVatsal (2500040224)",
+  "author": "Santosh (2500040101)",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
