@@ -62,8 +62,8 @@ app.get('/api/health', (req, res) => {
     status: 'online',
     project: 'BoxOffice Cine & Event Ticketing',
     category: 'Entertainment',
-    student: 'SaiVatsal',
-    collegeId: '2500040224',
+    student: 'Santosh',
+    collegeId: '2500040101',
     timestamp: new Date().toISOString()
   });
 });
